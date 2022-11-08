@@ -7,7 +7,7 @@
 
 A general metagenomics data mining system focus on robust microbiome research.
 
-## Overview vbho 8NOv22 v1234 vHO
+## Overview v NEW BHO
 ### MAG workflow (WIP figure)
 <div align=center><img width="600" height="800" src="docs/mag_workflow.svg"></div>
 
