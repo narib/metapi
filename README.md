@@ -7,7 +7,7 @@
 
 A general metagenomics data mining system focus on robust microbiome research.
 
-## Overview
+## Overview bho
 ### MAG workflow (WIP figure)
 <div align=center><img width="600" height="800" src="docs/mag_workflow.svg"></div>
 
